@@ -9,7 +9,6 @@
     "ChunkLoadDebug",
     "CommandExceptionLoggingMixin",
     "EntityLoadMixin",
-    "ServerAddEntityMixin",
     "ThreadingDetectorMixin"
   ],
   "client": [
